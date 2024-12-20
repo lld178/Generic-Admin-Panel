@@ -1,0 +1,9 @@
+.loginbox .captchaBox {
+  display: flex;
+}
+.loginbox .captchaBox img {
+  height: 30px;
+  margin-left: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+}
